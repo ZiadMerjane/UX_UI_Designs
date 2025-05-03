@@ -1,4 +1,5 @@
-![algorithms](https://github.com/user-attachments/assets/df15a82f-d94a-4c02-8e5f-794bbf35357d)
+![Morocco cosmetic](https://github.com/user-attachments/assets/61e492c1-9570-4b6a-b3eb-f05145c4055c)
+
 
 # 💄 Morocco Cosmetics – UX/UI Design (Laptop Version)
 

@@ -1,3 +1,5 @@
+![algorithms](https://github.com/user-attachments/assets/df15a82f-d94a-4c02-8e5f-794bbf35357d)
+
 # 💄 Morocco Cosmetics – UX/UI Design (Laptop Version)
 
 Welcome to the UX/UI design concept for **Morocco Cosmetics**, a modern beauty brand website tailored for desktop/laptop viewports. This project focuses on clean visuals, user-friendly layout, and an elegant presentation of cosmetic products.
